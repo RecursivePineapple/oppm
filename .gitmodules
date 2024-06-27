@@ -1,0 +1,3 @@
+[submodule "auto-altar"]
+	path = auto-altar
+	url = https://github.com/RecursivePineapple/auto-altar
